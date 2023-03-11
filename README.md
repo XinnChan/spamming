@@ -27,3 +27,5 @@ kalo mau berjalan lancar setidaknya sehari
 
 
 XinnChan;->(Kenji)> </CLAY>
+
+pasword: madara
