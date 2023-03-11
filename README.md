@@ -16,7 +16,7 @@ $ cd spamming
 
 $ ls
 
-$ pip install -r rquire.txt
+$ pip install -r rquirements.txt
 
 $ python3 xinn.py
 
