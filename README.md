@@ -18,7 +18,7 @@ $ ls
 
 $ pip install -r requirements.txt
 
-$ python3 R_run.py
+$ python3 xinn.py
 
 # Catatan
 jika ingin mengulang spam dengan nomor yang sama
