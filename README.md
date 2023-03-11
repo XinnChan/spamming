@@ -8,9 +8,9 @@ $ pkg install python3
 
 $ pkg install git
 
-$ pip install spamming
+$ pip install request
 
-$ git clone https://github.com/Rizki-Xs/spamming
+$ git clone https://github.com/XinnChan/spamming
 # Running
 $ cd spamming
 
