@@ -8,11 +8,11 @@ $ pkg install python3
 
 $ pkg install git
 
-$ pip install require
+$ pip install spamming
 
 $ git clone https://github.com/Rizki-Xs/spamming
 # Running
-$ cd spam
+$ cd spamming
 
 $ ls
 
