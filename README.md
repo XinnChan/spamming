@@ -8,15 +8,15 @@ $ pkg install python3
 
 $ pkg install git
 
-$ pip install requests
+$ pip install require
 
 $ git clone https://github.com/Rizki-Xs/spamming
 # Running
-$ cd spamming
+$ cd spam
 
 $ ls
 
-$ pip install -r requirements.txt
+$ pip install -r rquire.txt
 
 $ python3 xinn.py
 
@@ -24,3 +24,6 @@ $ python3 xinn.py
 jika ingin mengulang spam dengan nomor yang sama
 setidaknya memberi jeda 2 sampe 5 jam ya.
 kalo mau berjalan lancar setidaknya sehari
+
+
+XinnChan;->(Kenji)> </CLAY>
